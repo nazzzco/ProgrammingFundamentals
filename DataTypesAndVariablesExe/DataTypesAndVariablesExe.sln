@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17PrintPartOfASCII", "17Pri
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18DifferentIntSize", "18DifferentIntSize\18DifferentIntSize.csproj", "{83FF248A-7E9E-4322-B223-BB9A2D9B7356}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19TheaThePhotographer", "19TheaThePhotographer\19TheaThePhotographer.csproj", "{0999A43C-E4B4-4A53-9057-D8DC851C258B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{83FF248A-7E9E-4322-B223-BB9A2D9B7356}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{83FF248A-7E9E-4322-B223-BB9A2D9B7356}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{83FF248A-7E9E-4322-B223-BB9A2D9B7356}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0999A43C-E4B4-4A53-9057-D8DC851C258B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0999A43C-E4B4-4A53-9057-D8DC851C258B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0999A43C-E4B4-4A53-9057-D8DC851C258B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0999A43C-E4B4-4A53-9057-D8DC851C258B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
